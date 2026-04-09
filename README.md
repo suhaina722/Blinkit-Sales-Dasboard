@@ -1,5 +1,5 @@
 # Blinkit-Sales-Dashboard
-1. product variety.#1.Which outlet size generates highest sales?
+1.Which outlet size generates highest sales?
 Medium-sized outletsize generates highest sales, indicating an optimal balance between space utilization and product variety.
 2.Which location performs best?
 Tier3 locations perform the best in terms of total sales,showing strong demand in these areas.
